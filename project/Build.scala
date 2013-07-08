@@ -6,6 +6,7 @@ object Belt extends Build {
     organization := "com.mosesn",
     name := "belt",
     scalaVersion := "2.10.2",
+    version := "0.0.1",
     crossScalaVersions := Seq("2.9.3", "2.10.2"),
     scalacOptions += "-deprecation",
     publishMavenStyle := true,
